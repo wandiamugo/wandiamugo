@@ -30,9 +30,11 @@ Building inclusive tech communities
 
 📫 How to reach me
 LinkedIn: https://www.linkedin.com/in/wandia-mugo-ab03291b3/
+
 Based in Nairobi, Kenya
 
 ⚡ Fun fact
+
 I combine a Civil Engineering background with Bitcoin development and UX/UI design to make complex technology accessible, with a special focus on empowering women in the Bitcoin ecosystem!
 
 Technical Stack: Figma • React • JavaScript • Ruby on Rails • Laravel • Python • PHP • Rust • Bitcoin Protocol • Lightning Network • Cardano
