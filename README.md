@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wandia Mugo, a Project Manager at Bitcoin Dada bridging technology and accessibility in the Bitcoin ecosystem.
+I'm Wandia Mugo, a Project Manager at Dada Devs & Bitcoin Dada bridging technology,inclusion and accessibility in the Bitcoin ecosystem.
 
 🔭 I'm currently working on
 
