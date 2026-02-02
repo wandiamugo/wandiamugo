@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hi there 👋<br>
+#Hi there 👋<br>
 
 I'm Wandia Mugo, a Project Manager at Dada Devs & Bitcoin Dada bridging technology,inclusion and accessibility in the Bitcoin ecosystem.<br><br>🔭 
 
