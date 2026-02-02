@@ -1,48 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋<br>I'm Wandia Mugo, a Project Manager at Dada Devs & Bitcoin Dada bridging technology,inclusion and accessibility in the Bitcoin ecosystem.<br><br>🔭 I'm currently working on<br>Developing Bitcoin education programs at Bitcoin Dada & Dada Devs<br><br>Creating user-friendly Bitcoin and Lightning Network applications<br><br>Building accessible learning materials for Bitcoin adoption across Africa<br><br>🌱 I'm currently learning<br>Advanced Bitcoin protocol development<br><br>Lightning Network applications<br><br>Cardano protocol development<br><br>👯 I'm looking to collaborate on<br>Open-source Bitcoin projects<br><br>Educational initiatives making Bitcoin technology accessible<br><br>Applications that bridge complex technology with everyday usability<br><br>💬 Ask me about<br>Bitcoin & Lightning Network development<br><br>Full-stack development (React, JavaScript, Ruby on Rails, Laravel, Python, PHP, Rust)<br><br>UX/UI design and user-centered methodology<br><br>Bitcoin education and mentorship programs<br><br>Building inclusive tech communities<br><br>📫 How to reach me<br>LinkedIn: https://www.linkedin.com/in/wandia-mugo-ab03291b3/<br><br>Based in Nairobi, Kenya<br><br>⚡ Fun fact<br>I combine a Civil Engineering background with Bitcoin development and UX/UI design to make complex technology accessible, with a special focus on empowering women in the Bitcoin ecosystem!<br><br>Technical Stack: Figma • React • JavaScript • Ruby on Rails • Laravel • Python • PHP • Rust • Bitcoin Protocol • Lightning Network • Cardano<br><br>Certifications: Full Stack Development (Moringa School) • Bitcoin Development (Dada Devs, Bitshala's Mastering Bitcoin, Learning Bitcoin from the Command Line, Programming Bitcoin)
 
-I'm Wandia Mugo, a Project Manager at Dada Devs & Bitcoin Dada bridging technology,inclusion and accessibility in the Bitcoin ecosystem.
 
-## 🔭 I'm currently working on
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/wandiology) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wandia mugo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wandiology) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wandia mugo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wandiology) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@the wandiology podcast) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wandia45@gmail.com) 
 
-Developing Bitcoin education programs at Bitcoin Dada & Dada Devs
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wandiamugo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wandiamugo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wandiamugo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Creating user-friendly Bitcoin and Lightning Network applications
+---
+[![](https://visitcount.itsvg.in/api?id=wandiamugo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Building accessible learning materials for Bitcoin adoption across Africa
-
-## 🌱 I'm currently learning
-
-Advanced Bitcoin protocol development
-
-Lightning Network applications
-
-Cardano protocol development
-
-## 👯 I'm looking to collaborate on
-
-Open-source Bitcoin projects
-
-Educational initiatives making Bitcoin technology accessible
-
-Applications that bridge complex technology with everyday usability
-
-## 💬 Ask me about
-
-Bitcoin & Lightning Network development
-
-Full-stack development (React, JavaScript, Ruby on Rails, Laravel, Python, PHP, Rust)
-
-UX/UI design and user-centered methodology
-
-Bitcoin education and mentorship programs
-
-Building inclusive tech communities
-
-## 📫 How to reach me
-
-LinkedIn: https://www.linkedin.com/in/wandia-mugo-ab03291b3/
-
-Based in Nairobi, Kenya
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ⚡ Fun fact
 
